@@ -1,0 +1,2062 @@
+fileFormatVersion: 2
+guid: af95697a285c0264181d447eb2b4f016
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5348303945442931592
+    second: WizardBullet_0
+  - first:
+      213: -1249776689446469638
+    second: WizardBullet_1
+  - first:
+      213: -363596143705965858
+    second: WizardBullet_2
+  - first:
+      213: -1495654768903617207
+    second: WizardBullet_3
+  - first:
+      213: 5186675916690478093
+    second: WizardBullet_4
+  - first:
+      213: 7282317912502769771
+    second: WizardBullet_5
+  - first:
+      213: -945994297484278480
+    second: WizardBullet_6
+  - first:
+      213: 6565119182648100405
+    second: WizardBullet_7
+  - first:
+      213: -7042916842806207105
+    second: WizardBullet_8
+  - first:
+      213: 6429994130100942058
+    second: WizardBullet_9
+  - first:
+      213: 116636525044395523
+    second: WizardBullet_10
+  - first:
+      213: -179551779622688837
+    second: WizardBullet_11
+  - first:
+      213: 5965245199469698281
+    second: WizardBullet_12
+  - first:
+      213: 7804220852952944138
+    second: WizardBullet_13
+  - first:
+      213: -2532268575309532559
+    second: WizardBullet_14
+  - first:
+      213: -5972769028354334568
+    second: WizardBullet_15
+  - first:
+      213: 6393962606051728743
+    second: WizardBullet_16
+  - first:
+      213: -874243839631978007
+    second: WizardBullet_17
+  - first:
+      213: -8450894566185658611
+    second: WizardBullet_18
+  - first:
+      213: -5474913199097475839
+    second: WizardBullet_19
+  - first:
+      213: -6147105292292313763
+    second: WizardBullet_20
+  - first:
+      213: 5766647376918584367
+    second: WizardBullet_21
+  - first:
+      213: 1602326231247804731
+    second: WizardBullet_22
+  - first:
+      213: 7437784151404633056
+    second: WizardBullet_23
+  - first:
+      213: 9026735277120526153
+    second: WizardBullet_24
+  - first:
+      213: 1565353055533672717
+    second: WizardBullet_25
+  - first:
+      213: 2442718736717901524
+    second: WizardBullet_26
+  - first:
+      213: 3646504746563520288
+    second: WizardBullet_27
+  - first:
+      213: -115085823307046095
+    second: WizardBullet_28
+  - first:
+      213: -8940214546077997821
+    second: WizardBullet_29
+  - first:
+      213: 8480643835470400243
+    second: WizardBullet_30
+  - first:
+      213: -280105183107999511
+    second: WizardBullet_31
+  - first:
+      213: -5895757784399316032
+    second: WizardBullet_32
+  - first:
+      213: 7143503574229589347
+    second: WizardBullet_33
+  - first:
+      213: 3484429498522614140
+    second: WizardBullet_34
+  - first:
+      213: 641886155108277877
+    second: WizardBullet_35
+  - first:
+      213: -3395258903016854401
+    second: WizardBullet_36
+  - first:
+      213: -763870855737447584
+    second: WizardBullet_37
+  - first:
+      213: -207610850675951363
+    second: WizardBullet_38
+  - first:
+      213: 6746064160400222516
+    second: WizardBullet_39
+  - first:
+      213: 3728230601623948078
+    second: WizardBullet_40
+  - first:
+      213: -140835154664469893
+    second: WizardBullet_41
+  - first:
+      213: 3989206932270749642
+    second: WizardBullet_42
+  - first:
+      213: 8675246764544274759
+    second: WizardBullet_43
+  - first:
+      213: 7642389506227966401
+    second: WizardBullet_44
+  - first:
+      213: -3497489943636923344
+    second: WizardBullet_45
+  - first:
+      213: 5485106358219090981
+    second: WizardBullet_46
+  - first:
+      213: 6585534955866503707
+    second: WizardBullet_47
+  - first:
+      213: -8093584328400560678
+    second: WizardBullet_48
+  - first:
+      213: -3942579489919841798
+    second: WizardBullet_49
+  - first:
+      213: 2301448751154708320
+    second: WizardBullet_50
+  - first:
+      213: -6720956552737897607
+    second: WizardBullet_51
+  - first:
+      213: 2637709683602275077
+    second: WizardBullet_52
+  - first:
+      213: 8670641335302850862
+    second: WizardBullet_53
+  - first:
+      213: 7418825935862015950
+    second: WizardBullet_54
+  - first:
+      213: -851793826775038261
+    second: WizardBullet_55
+  - first:
+      213: 8869589183537108374
+    second: WizardBullet_56
+  - first:
+      213: 4908127364887223154
+    second: WizardBullet_57
+  - first:
+      213: -6077411775501356153
+    second: WizardBullet_58
+  - first:
+      213: -3933694792216603455
+    second: WizardBullet_59
+  - first:
+      213: 2181101564823048181
+    second: WizardBullet_60
+  - first:
+      213: -7755741118948560009
+    second: WizardBullet_61
+  - first:
+      213: 2257533407605860389
+    second: WizardBullet_62
+  - first:
+      213: 1296831900981155615
+    second: WizardBullet_63
+  - first:
+      213: -1431206714799702820
+    second: WizardBullet_64
+  - first:
+      213: -4185175948531380454
+    second: WizardBullet_65
+  - first:
+      213: 2555090679409251068
+    second: WizardBullet_66
+  - first:
+      213: -3233952714068892165
+    second: WizardBullet_67
+  - first:
+      213: 8894216790190588208
+    second: WizardBullet_68
+  - first:
+      213: -345473229970804560
+    second: WizardBullet_69
+  - first:
+      213: -8306616868637859255
+    second: WizardBullet_70
+  - first:
+      213: 6822183253261045795
+    second: WizardBullet_71
+  - first:
+      213: -2246929132032972989
+    second: WizardBullet_72
+  - first:
+      213: -3044269885158095169
+    second: WizardBullet_73
+  - first:
+      213: 1557104619919360183
+    second: WizardBullet_74
+  - first:
+      213: 1007267763052259852
+    second: WizardBullet_75
+  - first:
+      213: 6003320815816734176
+    second: WizardBullet_76
+  - first:
+      213: -957411292744359261
+    second: WizardBullet_77
+  - first:
+      213: -8470621803036096492
+    second: WizardBullet_78
+  - first:
+      213: 415945429164071544
+    second: WizardBullet_79
+  - first:
+      213: -285775445601528120
+    second: WizardBullet_80
+  - first:
+      213: -6676668091299373904
+    second: WizardBullet_81
+  - first:
+      213: -7676151842876679921
+    second: WizardBullet_82
+  - first:
+      213: 5601267918844465769
+    second: WizardBullet_83
+  - first:
+      213: 1324597655381033916
+    second: WizardBullet_84
+  - first:
+      213: -5658794781460016563
+    second: WizardBullet_85
+  - first:
+      213: -1490287495387414601
+    second: WizardBullet_86
+  - first:
+      213: 5471119903242191545
+    second: WizardBullet_87
+  - first:
+      213: -7170041041581729308
+    second: WizardBullet_88
+  - first:
+      213: -6314589088725802016
+    second: WizardBullet_89
+  - first:
+      213: 1074894556438279064
+    second: WizardBullet_90
+  - first:
+      213: 8339013543751828964
+    second: WizardBullet_91
+  - first:
+      213: -7420464779722109611
+    second: WizardBullet_92
+  - first:
+      213: 8108873199456166839
+    second: WizardBullet_93
+  - first:
+      213: 1560718601437997503
+    second: WizardBullet_94
+  - first:
+      213: -7520394142457290444
+    second: WizardBullet_95
+  - first:
+      213: -1394649771961941367
+    second: WizardBullet_96
+  - first:
+      213: 6399556307810926841
+    second: WizardBullet_97
+  - first:
+      213: 8227381659795016251
+    second: WizardBullet_98
+  - first:
+      213: -3269043380162770104
+    second: WizardBullet_99
+  - first:
+      213: -1310870103458237230
+    second: WizardBullet_100
+  - first:
+      213: -7266591332281184240
+    second: WizardBullet_101
+  - first:
+      213: -4381625814373667367
+    second: WizardBullet_102
+  - first:
+      213: -1840521370759217661
+    second: WizardBullet_103
+  - first:
+      213: 5770026264863457790
+    second: WizardBullet_104
+  - first:
+      213: 2402875017201185211
+    second: WizardBullet_105
+  - first:
+      213: 797730709254186290
+    second: WizardBullet_106
+  - first:
+      213: 6786588440210239459
+    second: WizardBullet_107
+  - first:
+      213: 6632057564152851718
+    second: WizardBullet_108
+  - first:
+      213: 7584807590438745636
+    second: WizardBullet_109
+  - first:
+      213: 2146924447845980756
+    second: WizardBullet_110
+  - first:
+      213: 8824160109998897483
+    second: WizardBullet_111
+  - first:
+      213: -7623729659452629857
+    second: WizardBullet_112
+  - first:
+      213: 6348869847255446497
+    second: WizardBullet_113
+  - first:
+      213: 6820825256308847940
+    second: WizardBullet_114
+  - first:
+      213: -5390894826705551344
+    second: WizardBullet_115
+  - first:
+      213: -8158581064038006407
+    second: WizardBullet_116
+  - first:
+      213: 6573851975691567012
+    second: WizardBullet_117
+  - first:
+      213: 6635985581576963888
+    second: WizardBullet_118
+  - first:
+      213: -4903253948657339485
+    second: WizardBullet_119
+  - first:
+      213: -8636972105712474974
+    second: WizardBullet_120
+  - first:
+      213: -1179844669809395833
+    second: WizardBullet_121
+  - first:
+      213: 2310685307786428160
+    second: WizardBullet_122
+  - first:
+      213: -5475615923008920002
+    second: WizardBullet_123
+  - first:
+      213: -8521204183366141216
+    second: WizardBullet_124
+  - first:
+      213: -7049513786331098600
+    second: WizardBullet_125
+  - first:
+      213: 13390058237134169
+    second: WizardBullet_126
+  - first:
+      213: 3279325764811251194
+    second: WizardBullet_127
+  - first:
+      213: 5515647539434192719
+    second: WizardBullet_128
+  - first:
+      213: 3287344351262171112
+    second: WizardBullet_129
+  - first:
+      213: 2731892456428811742
+    second: WizardBullet_130
+  - first:
+      213: -1923411666576962276
+    second: WizardBullet_131
+  - first:
+      213: 8042729058256799044
+    second: WizardBullet_132
+  - first:
+      213: -5132097896364928243
+    second: WizardBullet_133
+  - first:
+      213: -8591319402204314327
+    second: WizardBullet_134
+  - first:
+      213: 5891048427054306284
+    second: WizardBullet_135
+  - first:
+      213: -2589444479101749652
+    second: WizardBullet_136
+  - first:
+      213: -8803462493501775503
+    second: WizardBullet_137
+  - first:
+      213: -967378756261446628
+    second: WizardBullet_138
+  - first:
+      213: 5463643368743829389
+    second: WizardBullet_139
+  - first:
+      213: 5297648404285964253
+    second: WizardBullet_140
+  - first:
+      213: -1820876020095497335
+    second: WizardBullet_141
+  - first:
+      213: -4731812477382124511
+    second: WizardBullet_142
+  - first:
+      213: 4278628862732895636
+    second: WizardBullet_143
+  - first:
+      213: -2485213918298650324
+    second: WizardBullet_144
+  - first:
+      213: 2204891429104395134
+    second: WizardBullet_145
+  - first:
+      213: 2107515990757830446
+    second: WizardBullet_146
+  - first:
+      213: -4282990588663583361
+    second: WizardBullet_147
+  - first:
+      213: -810016292410445734
+    second: WizardBullet_148
+  - first:
+      213: 7865211075630035148
+    second: WizardBullet_149
+  - first:
+      213: -4871776666438471185
+    second: WizardBullet_150
+  - first:
+      213: -3906936700688473064
+    second: WizardBullet_151
+  - first:
+      213: -7629928279729703969
+    second: WizardBullet_152
+  - first:
+      213: -2578709750361815579
+    second: WizardBullet_153
+  - first:
+      213: 8861635978391220434
+    second: WizardBullet_154
+  - first:
+      213: 3344499873973810968
+    second: WizardBullet_155
+  - first:
+      213: -3890074896199423387
+    second: WizardBullet_156
+  - first:
+      213: 5435196222207593851
+    second: WizardBullet_157
+  - first:
+      213: 8580464551794000261
+    second: WizardBullet_158
+  - first:
+      213: 2174519291068355148
+    second: WizardBullet_159
+  - first:
+      213: -5981784929657679879
+    second: WizardBullet_160
+  - first:
+      213: -8925540796814112050
+    second: WizardBullet_161
+  - first:
+      213: 6333672028796982086
+    second: WizardBullet_162
+  - first:
+      213: -9024047394863874588
+    second: WizardBullet_163
+  - first:
+      213: 6998066895531419780
+    second: WizardBullet_164
+  - first:
+      213: 7625993787583771000
+    second: WizardBullet_165
+  - first:
+      213: 2260888977336195516
+    second: WizardBullet_166
+  - first:
+      213: 5689027683713432929
+    second: WizardBullet_167
+  - first:
+      213: 6013832170848000924
+    second: WizardBullet_168
+  - first:
+      213: 7526892163465767876
+    second: WizardBullet_169
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WizardBullet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 727
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8616fc0f2ae5964aa5bdef7ddb2bda3
+      internalID: 5348303945442931592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 725
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f56b1aa81ff441a0cd1d0f1da29f4
+      internalID: -1495654768903617207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 725
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c486cf29e04c048b2f2152d8171198
+      internalID: 5186675916690478093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 724
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13d4561924207249a76d40fac1d521f
+      internalID: 7282317912502769771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 725
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773cd94b3f11444b9c487ae7c1cbe5c
+      internalID: -945994297484278480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 724
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c014acb22f434fb99a1709e58225c
+      internalID: 6565119182648100405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_8
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 723
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a4211abc2878a41a21352402142294
+      internalID: -7042916842806207105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 726
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a7ec83d4704a044894863e7a3c7d0f
+      internalID: 116636525044395523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 623
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367bedae9b005840b3c74d96061386f
+      internalID: 7437784151404633056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 623
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf68b4eccfd91b419d5c6cd28b40c64
+      internalID: 1565353055533672717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 623
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392085cbe0a46ef43b354d859089705b
+      internalID: 3646504746563520288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d026173960003214e95a4eca12a68fe2
+      internalID: -8940214546077997821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_30
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 621
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f4b91fb954fb4eac4adf15473834a
+      internalID: 8480643835470400243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 622
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848b6486ab2953488f421f5d8812e01
+      internalID: -5895757784399316032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_34
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 622
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1cd0b32cf10a042ae22b561dc4995f
+      internalID: 3484429498522614140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_36
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 625
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29d0bc76b6328344b5f07833a672590
+      internalID: -3395258903016854401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 633
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8a9ae13075324cabf100cdfb3a165
+      internalID: -3497489943636923344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 524
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73280beb4adc61e439a51e5a893c26ea
+      internalID: -6720956552737897607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_52
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 523
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda391278254724198975659da779d0
+      internalID: 2637709683602275077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_53
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 524
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54f3342c86233f4fb80023f946b8c36
+      internalID: 8670641335302850862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 526
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c07ce5c60d51d4b9afd1a1e98434ec
+      internalID: 7418825935862015950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 525
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d929481bb0786489f7f9a23ea232c1
+      internalID: -851793826775038261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_57
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 524
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc596332cb3d45499d913d416d103e7
+      internalID: 4908127364887223154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_58
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 524
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1ba2a94f5cd65439c57390f8ef3703
+      internalID: -6077411775501356153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_64
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 523
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96e2c303edbd24192398d7914943d2
+      internalID: -1431206714799702820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 425
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338873141646d24c94bde22ca6597ff
+      internalID: -2246929132032972989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_74
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 424
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427381e2bf3692e408cdea298a72d6c1
+      internalID: 1557104619919360183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 424
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72888540af3f27f499380b8e4733d329
+      internalID: 6003320815816734176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 423
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cc6967970dad14cb0df704bb1dc845
+      internalID: -957411292744359261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_78
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 422
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41bcd3adb291564694c7f59797a8922
+      internalID: -8470621803036096492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_79
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 423
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea433c3f6231541bae617a8b2bf47d
+      internalID: 415945429164071544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_80
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 423
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5346dcf223f24b9938a7da4e2fe3f
+      internalID: -285775445601528120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_81
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 422
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c33306a8db838468ec23e7ac1bcc31
+      internalID: -6676668091299373904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b500fcba34340f24e8562511e813eb32
+      internalID: -3269043380162770104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 321
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a08cf8a84190478a807dc0ed8367d
+      internalID: -1310870103458237230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_101
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 324
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36d10d00674f894e8be2a66ea6a9136
+      internalID: -7266591332281184240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_102
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fed2c7326be7c4a91e16bbd001b69a
+      internalID: -4381625814373667367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_103
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 323
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e86f88e71f44784e8d7aa8a6e709f17
+      internalID: -1840521370759217661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_104
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 331
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dfc2d95f149ce4bbb69ca3c07c543c
+      internalID: 5770026264863457790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_105
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 328
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f840fca3be290c449eedbb9a7c60c6a
+      internalID: 2402875017201185211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_106
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 325
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65240a2ebcc5da42b872521bdc0a1e2
+      internalID: 797730709254186290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 332
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b56f43c52b0544d93e2f2124ae1f2f
+      internalID: 6348869847255446497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_114
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 331
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab9a31cba515a4b9eac457a8515224
+      internalID: 6820825256308847940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_119
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 223
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59723f437f41944a860c8280255d6c9
+      internalID: -4903253948657339485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_121
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 224
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd00b58e5f57e45b967c55fc80f781
+      internalID: -1179844669809395833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_123
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d357bf3a6a83b419e6143a4a0c6568
+      internalID: -5475615923008920002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 223
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903cad64c8eed1b489ac84827c73d797
+      internalID: -8521204183366141216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_125
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 225
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c056e0d6ed4f85447868acfb883dabed
+      internalID: -7049513786331098600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_126
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 230
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff802f8bf8ed074fb4b4fbd582422e4
+      internalID: 13390058237134169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_127
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 230
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dda2d1fea599a44a560814ab8860c5
+      internalID: 3279325764811251194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_128
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 227
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815871bb86d185f4ea6520d2f78a763f
+      internalID: 5515647539434192719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_136
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 126
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d0ac79de30a346b52416d090de486
+      internalID: -2589444479101749652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_137
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f1ff251bf3124e9aca20bc8011f70
+      internalID: -8803462493501775503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_138
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 126
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db598030c8a56d42a07467a30a09ceb
+      internalID: -967378756261446628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 125
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef75a5354c8d6a40af96f868bc8d434
+      internalID: 5463643368743829389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_140
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 128
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80bdc7eefb7ee943b1ae6c7e2abff40
+      internalID: 5297648404285964253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 127
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea959e4a21f099b42984535189d5b130
+      internalID: -1820876020095497335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_142
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 127
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f11e1faa2e0b6409931d87e196f7a7
+      internalID: -4731812477382124511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_143
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 139
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978f00d522d7f54e99e4c84194ee3ad
+      internalID: 4278628862732895636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_144
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 126
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3716253b6192e1d418e37076d98ba9d6
+      internalID: -2485213918298650324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 139
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aa4c871cfd8834ebe7e9d7451c47aa
+      internalID: 2204891429104395134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_150
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 128
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69557c83b8fb9aa44b88aa6228d2cb62
+      internalID: -4871776666438471185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_151
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 127
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd35ede61345964da4f37660d48c515
+      internalID: -3906936700688473064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_152
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 26
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e819571e84ba9d4990867a1d65c29da
+      internalID: -7629928279729703969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_153
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 26
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb53e158e8927e640b69d30a96b5f505
+      internalID: -2578709750361815579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba538e7e5afdbf0448e478f0846d6702
+      internalID: 3344499873973810968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_159
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 27
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a79d731344b94fa3b71061148b503
+      internalID: 2174519291068355148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_164
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 25
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae553019627c77c47811cd3f9528ac24
+      internalID: 6998066895531419780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WizardBullet_166
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 39
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451df51ba3329cf449ee79ffd9e73110
+      internalID: 2260888977336195516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
