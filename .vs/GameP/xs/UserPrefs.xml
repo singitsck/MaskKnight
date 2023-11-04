@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{76CD6098-AABB-16B9-0ED4-D60D141F91AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameCheck.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameCheck.cs" Line="60" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameP" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameCheck.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc3f592d-e6a9-4cc9-9dc7-b3f1b0e09da0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -7,12 +7,12 @@ public class CameraController : MonoBehaviour
     public IEnumerator CameraShakeCo(float _maxTime, float _amount)
     {
         Vector3 originalPos = transform.localPosition;
-        float shakeTime = 0.0f;
+        float shakeTime = 0.5f;
 
         while (shakeTime < _maxTime)
         {
-            float x = Random.Range(-1f, 1f) * _amount;
-            float y = Random.Range(-1f, 1f) * _amount;
+            float x = Random.Range(-0.5f, 0.5f) * _amount;
+            float y = Random.Range(-0.5f, 0.5f) * _amount;
 
             transform.localPosition = new Vector3(x, y, originalPos.z);
             shakeTime += Time.deltaTime;

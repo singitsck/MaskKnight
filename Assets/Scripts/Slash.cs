@@ -14,7 +14,7 @@ public class Slash : MonoBehaviour
 
     public void EndAttack()
     {
-        gameObject.SetActive(false);//关闭Slash
+        gameObject.SetActive(false);//關閉Slash
     }
 
     private void OnTriggerEnter2D(Collider2D other)

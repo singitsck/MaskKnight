@@ -11,7 +11,7 @@ public class GameCheck : MonoBehaviour
     [SerializeField] public GameObject StopB;
     [SerializeField] public GameObject PlayB;
     [SerializeField] public GameObject NextB;
-    public int ScenesKO;
+    public int ScenesKO,nowScenes;
     private GameObject[] EnemyNo;
     private GameObject[] PlayerNo;
     public float restartDelay;
@@ -52,8 +52,10 @@ public class GameCheck : MonoBehaviour
                 GameClear.SetActive(true);
                 BackButton.SetActive(true);
                 NextB.SetActive(true);
-                ScenesKO += 1;
-                PlayerPrefs.SetInt("ScenesKO", ScenesKO);
+                if(ScenesKO <= nowScenes){
+                    ScenesKO += 1;
+                    PlayerPrefs.SetInt("ScenesKO", ScenesKO);
+                }
                 GameObject.Find("GameCheck").GetComponent<GameCheck>().enabled = false;
             }
             

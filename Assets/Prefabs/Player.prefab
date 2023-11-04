@@ -13,7 +13,8 @@ GameObject:
   - component: {fileID: 1388343819972898805}
   - component: {fileID: 1388343819972898804}
   - component: {fileID: 1388343819972898795}
-  m_Layer: 0
+  - component: {fileID: 332504350}
+  m_Layer: 2
   m_Name: Slash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,9 +28,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1388343819972898793}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.099999905, z: 0}
-  m_LocalScale: {x: 1.196, y: 1.201, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.1, z: 0}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1}
   m_Children: []
   m_Father: {fileID: 1388343820728847962}
   m_RootOrder: 0
@@ -45,9 +46,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -146,6 +150,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.1885711, y: 0.53966}
   m_EdgeRadius: 0
+--- !u!50 &332504350
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1388343819972898793}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 3
 --- !u!1 &1388343820121075180
 GameObject:
   m_ObjectHideFlags: 0
@@ -162,7 +187,7 @@ GameObject:
   - component: {fileID: 1388343820121075182}
   - component: {fileID: 1388343820121075181}
   - component: {fileID: 1671480225124742495}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -195,9 +220,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -311,7 +339,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 958e530e2f2f5e24dbf6b302bb204bf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moveH: 0
+  moveV: 0
   moveSpeed: 6
+  variableJoystick: {fileID: 0}
 --- !u!114 &1388343820121075181
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -325,8 +356,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHp: 5
-  hp: 0
-  nowHp: 0
+  hp: 5
+  nowHp: 5
   isAttacked: 0
   hurt: {fileID: 8300000, guid: 31333db9bd1e7c94cbb7a9b6014d041f, type: 3}
   hearts:
@@ -348,7 +379,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 925b93d8049fb314aa3f6e5ac3d9e41e, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.25
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -442,7 +473,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1388343820728847962}
   - component: {fileID: 1388343820728847963}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Slash Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -456,14 +487,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1388343820728847961}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0.07422512, w: 0.99724156}
   m_LocalPosition: {x: 0, y: 0.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1388343819972898794}
   m_Father: {fileID: 1388343820121075179}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -8.513}
 --- !u!114 &1388343820728847963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -477,3 +508,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Swing: {fileID: 8300000, guid: 75ccaf337a557eb4c8c4be7bd0e3e051, type: 3}
+  variableJoystick: {fileID: 0}

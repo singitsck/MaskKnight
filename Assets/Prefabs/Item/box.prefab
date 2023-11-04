@@ -45,9 +45,12 @@ SpriteRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -146,4 +149,5 @@ MonoBehaviour:
   hp: 0
   hurtLength: 0.1
   isAttacked: 0
-  explosionEffect: {fileID: 0}
+  explosionEffect: {fileID: 916777543288856535, guid: 230c49d302a5e8149860be0f31267ded,
+    type: 3}
